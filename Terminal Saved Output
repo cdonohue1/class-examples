@@ -1,0 +1,55 @@
+Last login: Sat Aug  9 22:33:47 on console
+chases-air:~ chasedonohue$ 
+chases-air:~ chasedonohue$ rsl
+-bash: rsl: command not found
+chases-air:~ chasedonohue$ irb
+irb(main):001:0> print {"hello world "}
+=> nil
+irb(main):002:0> 
+irb(main):003:0* 
+irb(main):004:0* print "hello world"
+hello world=> nil
+irb(main):005:0> print ('hello world')
+hello world=> nil
+irb(main):006:0> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
